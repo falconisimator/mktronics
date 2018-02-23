@@ -39,7 +39,9 @@ class BLDC_Motor:
 
 	def __init__():
 
+class AC_Motor:
 
+	def __init__():
 
 class Motor_Controller:
 
